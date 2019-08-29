@@ -1,0 +1,18 @@
+header {
+    font: bold calc(.025 * (100vw)) 'Arial', sans-serif;
+    padding-left: 100px;
+}
+h1 {
+    padding-left: 50px;
+}
+h2 {
+   padding-left: 50px;
+}
+section {
+    font:  calc(.025 * (100vw)) 'Arial', sans-serif;
+    padding-left: 100px;
+}
+section#last{
+    font:  calc(.030 * (75vw)) 'Arial', sans-serif;
+    padding-left: 100px;
+}
